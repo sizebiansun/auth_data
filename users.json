@@ -13,7 +13,10 @@
   },
   "literaturefinder": {
     "users": [
-      {"username": "alice", "password": "pass111"},
+      {"username": "teacherhuang", "password": "teacherhuang123"},
+      {"username": "teacherli", "password": "teacherli123"},
+      {"username": "teachergao", "password": "teachergao123"},
+      {"username": "teacherzheng", "password": "teacherzheng123"},
       {"username": "bob", "password": "pass222"}
     ]
   },
