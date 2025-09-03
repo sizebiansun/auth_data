@@ -1,0 +1,26 @@
+{
+  "refcheck": {
+    "users": [
+      {"username": "teacherhuang", "password": "teacherhuang123"},
+      {"username": "teacherli", "password": "teacherli123"},
+      {"username": "teachergao", "password": "teachergao123"},
+      {"username": "teacher1", "password": "abc123"},
+      {"username": "teacher2", "password": "abc123"},
+      {"username": "teacher3", "password": "abc123"},
+      {"username": "teacher4", "password": "abc123"},
+      {"username": "teacher5", "password": "xyz789"}
+    ]
+  },
+  "literaturefinder": {
+    "users": [
+      {"username": "alice", "password": "pass111"},
+      {"username": "bob", "password": "pass222"}
+    ]
+  },
+  "analysis_tool": {
+    "users": [
+      {"username": "userA", "password": "111aaa"},
+      {"username": "userB", "password": "222bbb"}
+    ]
+  }
+}
